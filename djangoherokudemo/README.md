@@ -1,2 +1,0 @@
-# djangoherokudemo
-Django Heroku Demo
