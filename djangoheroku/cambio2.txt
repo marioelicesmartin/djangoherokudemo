@@ -6,3 +6,7 @@ Cambio 6 online
 Cambio 7 es offline
 el cambio 8 es offline tb, creo la rama Cambio 8
 cambio 9 dentro de rama 8
+
+cambio 10 solo en rama master
+y cambio 11
+
